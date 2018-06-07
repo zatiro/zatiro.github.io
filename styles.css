@@ -104,7 +104,7 @@ body{
 
 .post{
   max-width: 1050px;
-  margin: 0 auto;
+  margin: 0 auto auto 20px;
   padding: 40px 0;
 }
 
